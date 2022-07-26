@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "GraphTenantId": "GRAPH_TENANT_ID",
+    "GraphClientId": "GRAPH_CLIENT_ID",
+    "GraphClientSecret": "GRAPH_CLIENT_SECRET",
+    "TableStorageAccountName": "ACCOUNT_NAME",
+    "TableStorageAccountKey": "ACCOUNT_KEY",
+    "TableStorageTableName": "TABLE_NAME",
+    "AES_KEY": "AES_KEY",
+    "IV_KEY": "IV_KEY"
+  },
+  "Host": { "CORS": "*" }
+}
